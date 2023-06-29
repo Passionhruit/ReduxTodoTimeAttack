@@ -9,6 +9,8 @@ import { styled } from "styled-components";
 const StDiv = styled.div`
   border: 1px solid black;
   margin: 0 auto 20px auto;
+  border-radius: 10px;
+  background-color: #d4f2fc;
   width: 300px;
 `;
 
